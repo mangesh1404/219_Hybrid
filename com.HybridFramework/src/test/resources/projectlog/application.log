@@ -1,0 +1,42 @@
+2022-03-19 09:11:37,469  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-19 09:11:37,475  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-19 09:11:37,476  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-19 09:11:42,276  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-19 09:11:42,277  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-19 09:11:42,485  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-19 09:11:42,526  INFO [main] BaseClass:39 - launching JBK offline application
+2022-03-19 09:12:35,623  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-19 09:12:35,648  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-19 09:12:35,649  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-19 09:12:39,996  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-19 09:12:39,996  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-19 09:12:40,345  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-19 09:12:40,401  INFO [main] BaseClass:39 - launching JBK offline application
+2022-03-19 09:46:56,810  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-19 09:46:56,816  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-19 09:46:56,816  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-19 09:46:59,964  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-19 09:46:59,965  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-19 09:47:00,297  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-19 09:47:00,322  INFO [main] BaseClass:39 - launching JBK offline application
+2022-03-26 08:45:19,989  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-26 08:45:19,997  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-26 08:45:19,997  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-26 08:45:24,013  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-26 08:45:24,014  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-26 08:45:24,185  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-26 08:45:24,225  INFO [main] BaseClass:39 - launching JBK offline application
+2022-03-27 08:53:44,418  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-27 08:53:44,431  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-27 08:53:44,434  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-27 08:53:48,468  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-27 08:53:48,468  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-27 08:53:48,635  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-27 08:53:48,664  INFO [main] BaseClass:39 - launching JBK offline application
+2022-03-27 08:59:05,025  INFO [main] BaseClass:19 - reading property file for browser name
+2022-03-27 08:59:05,031  INFO [main] BaseClass:21 - browser found in the file as chrome
+2022-03-27 08:59:05,031  INFO [main] BaseClass:23 - user launching chrome browser
+2022-03-27 08:59:09,314  INFO [main] BaseClass:26 - user launched chrome browser
+2022-03-27 08:59:09,315  INFO [main] BaseClass:34 - maximizing browser window
+2022-03-27 08:59:09,484  INFO [main] BaseClass:36 - applying waits on the browser
+2022-03-27 08:59:09,521  INFO [main] BaseClass:39 - launching JBK offline application
